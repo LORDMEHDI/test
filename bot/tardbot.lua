@@ -219,7 +219,7 @@ function create_config( )
 "download_media",
 "autoleave",
 "block",
- "pv.lua",
+ "pv",
  "link.pv",
 "echo",
 "feedback",
