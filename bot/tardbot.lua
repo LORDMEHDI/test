@@ -222,10 +222,8 @@ function create_config( )
  "pv",
  "link.pv",
 "echo",
-"tagall",
 "feedback",
 "send.pv",
-"leave",
 "all"
     },
     sudo_users = {112524566,139946685,0,tonumber(our_id)},--Sudo users
