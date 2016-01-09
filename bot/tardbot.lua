@@ -206,7 +206,7 @@ function create_config( )
     enabled_plugins = {
  "onservice",
  "tagall",
- "pv",
+ "pv.lua",
  "link.pv",
  "tagall",
  "tagall",
