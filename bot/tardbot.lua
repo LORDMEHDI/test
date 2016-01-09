@@ -222,7 +222,10 @@ function create_config( )
  "pv",
  "link.pv",
 "echo",
+"tagall",
 "feedback",
+"send.pv",
+"leave",
 "all"
     },
     sudo_users = {112524566,139946685,0,tonumber(our_id)},--Sudo users
@@ -231,7 +234,7 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleTard v4.9
 An advance Administration bot based on Telegram-CLI written in lua
-
+ادمین ها
 Admins
 @ferisystem [Founder]
 @mahdi17177 [Manager & Developer]
