@@ -234,7 +234,7 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleTard v4.9
 An advance Administration bot based on Telegram-CLI written in lua
-ادمین ها
+
 Admins
 @ferisystem [Founder]
 @mahdi17177 [Manager & Developer]
