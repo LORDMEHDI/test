@@ -205,11 +205,6 @@ function create_config( )
   config = {
     enabled_plugins = {
  "onservice",
- "tagall",
- "pv.lua",
- "link.pv",
- "tagall",
- "tagall",
 "inrealm",
 "ingroup",
 "inpm",
@@ -224,6 +219,8 @@ function create_config( )
 "download_media",
 "autoleave",
 "block",
+ "pv.lua",
+ "link.pv",
 "echo",
 "feedback",
 "all"
