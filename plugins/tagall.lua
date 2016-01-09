@@ -28,4 +28,5 @@ usage = {
 patterns = {
 "^[!/]tagall +(.+)$"
 },
-run = r
+ run = run
+}
