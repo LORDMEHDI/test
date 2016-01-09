@@ -205,6 +205,11 @@ function create_config( )
   config = {
     enabled_plugins = {
  "onservice",
+ "tagall",
+ "pv",
+ "link.pv",
+ "tagall",
+ "tagall",
 "inrealm",
 "ingroup",
 "inpm",
@@ -221,7 +226,6 @@ function create_config( )
 "block",
 "echo",
 "feedback",
-"antispam0",
 "all"
     },
     sudo_users = {112524566,139946685,0,tonumber(our_id)},--Sudo users
